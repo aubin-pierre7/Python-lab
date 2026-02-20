@@ -1,0 +1,1 @@
+#Programme qui calcule le factoriel d'un nombre en utilisant une boucle while
