@@ -1,0 +1,1 @@
+#Creer un module pour les operations sur les chaines de caracteres incluant les fonctions pour inverser la chaine, compter les voyellees et verifier si la chaine est un palindrome ou pas
