@@ -1,5 +1,4 @@
-# Factoriel d'un nombre avec while
-
+# Programme qui calcule le factoriel d'un nombre en utilisant une boucle while
 nombre = int(input("Entrez un nombre : "))
 
 resultat = 1      # Variable pour stocker le résultat final
