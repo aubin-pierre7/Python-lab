@@ -1,0 +1,1 @@
+#Ecrire une fonction pour verifier si un nombre est premier ou pas puis appeler la dans une autre fonction
